@@ -1,5 +1,8 @@
 
-        	
+ 
+### This code is associated with the paper from Verger et al., "A tension-adhesion feedback loop in plant epidermis". eLife, 2018. http://dx.doi.org/10.7554/eLife.34460
+ 
+ 
 # Cell Separation Image Ananlysis Pipeline
 
 Copyright 2018 INRA - CNRS
